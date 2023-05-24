@@ -186,7 +186,6 @@
     (via_drill 0.4)
     (uvia_dia 0.3)
     (uvia_drill 0.1)
-    (add_net +5V)
     (add_net COL0)
     (add_net COL1)
     (add_net COL10)
@@ -199,7 +198,6 @@
     (add_net COL7)
     (add_net COL8)
     (add_net COL9)
-    (add_net GND)
     (add_net LEDPIN)
     (add_net "Net-(D1-Pad2)")
     (add_net "Net-(D10-Pad2)")
@@ -273,6 +271,17 @@
     (add_net ROW1)
     (add_net ROW2)
     (add_net ROW3)
+  )
+
+  (net_class Power ""
+    (clearance 0.2)
+    (trace_width 0.381)
+    (via_dia 0.8)
+    (via_drill 0.4)
+    (uvia_dia 0.3)
+    (uvia_drill 0.1)
+    (add_net +5V)
+    (add_net GND)
   )
 
   (module MX_Only:MXOnly-1U-NoLED-EDIT (layer F.Cu) (tedit 646D4E92) (tstamp 646D2D99)

@@ -1720,7 +1720,7 @@
   )
 
   (module Keebio-Parts:SW_Tactile_SPST_Angled_MJTP1117 (layer B.Cu) (tedit 5955E103) (tstamp 646DF1D4)
-    (at 208.75625 59.53125 180)
+    (at 208.75625 69.05625 180)
     (descr "tactile switch SPST right angle, PTS645VL39-2 LFS")
     (tags "tactile switch SPST angled PTS645VL39-2 LFS C&K Button")
     (path /646D85CB)

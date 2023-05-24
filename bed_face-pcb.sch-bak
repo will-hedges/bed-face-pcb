@@ -20,7 +20,7 @@ U 1 1 646D53C3
 P 2600 2250
 F 0 "U1" H 2600 3287 60  0000 C CNN
 F 1 "ProMicro" H 2600 3181 60  0000 C CNN
-F 2 "Keebio-Parts:ArduinoProMicro-BackSide" H 2700 1200 60  0001 C CNN
+F 2 "promicro:ProMicro" H 2700 1200 60  0001 C CNN
 F 3 "" H 2700 1200 60  0000 C CNN
 	1    2600 2250
 	1    0    0    -1  
