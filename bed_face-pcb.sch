@@ -20,7 +20,7 @@ U 1 1 646D53C3
 P 2600 2250
 F 0 "U1" H 2600 3287 60  0000 C CNN
 F 1 "ProMicro" H 2600 3181 60  0000 C CNN
-F 2 "promicro:ProMicro" H 2700 1200 60  0001 C CNN
+F 2 "Keebio-Parts:ArduinoProMicro-BackSide" H 2700 1200 60  0001 C CNN
 F 3 "" H 2700 1200 60  0000 C CNN
 	1    2600 2250
 	1    0    0    -1  
@@ -36,33 +36,31 @@ GND
 $Comp
 L Switch:SW_Push SW1
 U 1 1 646D85CB
-P 3800 1700
-F 0 "SW1" H 3800 1985 50  0000 C CNN
-F 1 "SW_Push" H 3800 1894 50  0000 C CNN
-F 2 "Keebio-Parts:SW_Tactile_SPST_Angled_MJTP1117" H 3800 1900 50  0001 C CNN
-F 3 "~" H 3800 1900 50  0001 C CNN
-	1    3800 1700
+P 4300 1700
+F 0 "SW1" H 4300 1985 50  0000 C CNN
+F 1 "SW_Push" H 4300 1894 50  0000 C CNN
+F 2 "Keebio-Parts:SW_Tactile_SPST_Angled_MJTP1117" H 4300 1900 50  0001 C CNN
+F 3 "~" H 4300 1900 50  0001 C CNN
+	1    4300 1700
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3300 1700 3600 1700
-Wire Wire Line
-	4000 1700 4200 1700
+	4500 1700 4700 1700
 $Comp
 L power:GND #PWR01
 U 1 1 646DAA7E
-P 4200 1700
-F 0 "#PWR01" H 4200 1450 50  0001 C CNN
-F 1 "GND" H 4205 1527 50  0000 C CNN
-F 2 "" H 4200 1700 50  0001 C CNN
-F 3 "" H 4200 1700 50  0001 C CNN
-	1    4200 1700
+P 4700 1700
+F 0 "#PWR01" H 4700 1450 50  0001 C CNN
+F 1 "GND" H 4705 1527 50  0000 C CNN
+F 2 "" H 4700 1700 50  0001 C CNN
+F 3 "" H 4700 1700 50  0001 C CNN
+	1    4700 1700
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4200 1700 4350 1700
-Connection ~ 4200 1700
-Text GLabel 4350 1700 2    50   Input ~ 0
+	4700 1700 4850 1700
+Connection ~ 4700 1700
+Text GLabel 4850 1700 2    50   Input ~ 0
 GND
 $Comp
 L MX_Alps_Hybrid:MX-NoLED MX1
@@ -1532,11 +1530,49 @@ U 1 1 647673EB
 P 7400 5600
 F 0 "MX42" H 7433 5823 60  0000 C CNN
 F 1 "LSPACE" H 7433 5749 20  0000 C CNN
-F 2 "MX_Only:MXOnly-1U-NoLED-EDIT" H 6775 5575 60  0001 C CNN
+F 2 "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED-ComboSpace-EDIT" H 6775 5575 60  0001 C CNN
 F 3 "" H 6775 5575 60  0001 C CNN
 	1    7400 5600
 	1    0    0    -1  
 $EndComp
 Text GLabel 10500 3850 2    50   Input ~ 0
 ROW0
+Text GLabel 1900 1900 0    50   Input ~ 0
+ROW0
+Text GLabel 1900 1600 0    50   Input ~ 0
+COL1
+Text GLabel 1900 2500 0    50   Input ~ 0
+ROW1
+Text GLabel 1900 2600 0    50   Input ~ 0
+ROW2
+Text GLabel 3300 2500 2    50   Input ~ 0
+ROW3
+Text GLabel 3300 2400 2    50   Input ~ 0
+COL3
+Text GLabel 3300 1900 2    50   Input ~ 0
+COL2
+Text GLabel 1900 2300 0    50   Input ~ 0
+COL4
+Text GLabel 3300 2300 2    50   Input ~ 0
+COL5
+Text GLabel 1900 2200 0    50   Input ~ 0
+COL6
+Text GLabel 3300 2200 2    50   Input ~ 0
+COL7
+Text GLabel 1900 2100 0    50   Input ~ 0
+COL8
+Text GLabel 3300 2100 2    50   Input ~ 0
+COL9
+Text GLabel 1900 2000 0    50   Input ~ 0
+COL10
+Text GLabel 3300 2000 2    50   Input ~ 0
+COL11
+Text GLabel 1900 1500 0    50   Input ~ 0
+COL0
+Text GLabel 1900 2400 0    50   Input ~ 0
+LEDPIN
+Text GLabel 4100 1700 0    50   Input ~ 0
+RESET
+Text GLabel 3300 1700 2    50   Input ~ 0
+RESET
 $EndSCHEMATC
