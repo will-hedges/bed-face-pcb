@@ -108,7 +108,7 @@ U 1 1 647673FE
 P 9150 3900
 F 0 "D43" V 9196 3832 50  0000 R CNN
 F 1 "D_Small" V 9105 3832 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 9150 3900 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 9150 3900 50  0001 C CNN
 F 3 "~" V 9150 3900 50  0001 C CNN
 	1    9150 3900
 	0    -1   -1   0   
@@ -344,7 +344,7 @@ U 1 1 6476EFC7
 P 6450 3200
 F 0 "D25" V 6496 3132 50  0000 R CNN
 F 1 "D_Small" V 6405 3132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6450 3200 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 6450 3200 50  0001 C CNN
 F 3 "~" V 6450 3200 50  0001 C CNN
 	1    6450 3200
 	0    -1   -1   0   
@@ -368,7 +368,7 @@ U 1 1 64767425
 P 10500 3900
 F 0 "D46" V 10546 3832 50  0000 R CNN
 F 1 "D_Small" V 10455 3832 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 10500 3900 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 10500 3900 50  0001 C CNN
 F 3 "~" V 10500 3900 50  0001 C CNN
 	1    10500 3900
 	0    -1   -1   0   
@@ -392,7 +392,7 @@ U 1 1 64767418
 P 10050 3900
 F 0 "D45" V 10096 3832 50  0000 R CNN
 F 1 "D_Small" V 10005 3832 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 10050 3900 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 10050 3900 50  0001 C CNN
 F 3 "~" V 10050 3900 50  0001 C CNN
 	1    10050 3900
 	0    -1   -1   0   
@@ -416,7 +416,7 @@ U 1 1 6476740B
 P 9600 3900
 F 0 "D44" V 9646 3832 50  0000 R CNN
 F 1 "D_Small" V 9555 3832 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 9600 3900 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 9600 3900 50  0001 C CNN
 F 3 "~" V 9600 3900 50  0001 C CNN
 	1    9600 3900
 	0    -1   -1   0   
@@ -440,7 +440,7 @@ U 1 1 647673F1
 P 8700 3900
 F 0 "D42" V 8746 3832 50  0000 R CNN
 F 1 "D_Small" V 8655 3832 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 8700 3900 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 8700 3900 50  0001 C CNN
 F 3 "~" V 8700 3900 50  0001 C CNN
 	1    8700 3900
 	0    -1   -1   0   
@@ -453,7 +453,7 @@ U 1 1 647673E4
 P 8250 3900
 F 0 "D41" V 8296 3832 50  0000 R CNN
 F 1 "D_Small" V 8205 3832 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 8250 3900 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 8250 3900 50  0001 C CNN
 F 3 "~" V 8250 3900 50  0001 C CNN
 	1    8250 3900
 	0    -1   -1   0   
@@ -477,7 +477,7 @@ U 1 1 647673D7
 P 7800 3900
 F 0 "D40" V 7846 3832 50  0000 R CNN
 F 1 "D_Small" V 7755 3832 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7800 3900 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 7800 3900 50  0001 C CNN
 F 3 "~" V 7800 3900 50  0001 C CNN
 	1    7800 3900
 	0    -1   -1   0   
@@ -501,7 +501,7 @@ U 1 1 647673CA
 P 7350 3900
 F 0 "D39" V 7396 3832 50  0000 R CNN
 F 1 "D_Small" V 7305 3832 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7350 3900 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 7350 3900 50  0001 C CNN
 F 3 "~" V 7350 3900 50  0001 C CNN
 	1    7350 3900
 	0    -1   -1   0   
@@ -525,7 +525,7 @@ U 1 1 647673BD
 P 6900 3900
 F 0 "D38" V 6946 3832 50  0000 R CNN
 F 1 "D_Small" V 6855 3832 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6900 3900 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 6900 3900 50  0001 C CNN
 F 3 "~" V 6900 3900 50  0001 C CNN
 	1    6900 3900
 	0    -1   -1   0   
@@ -549,7 +549,7 @@ U 1 1 647673B0
 P 6450 3900
 F 0 "D37" V 6496 3832 50  0000 R CNN
 F 1 "D_Small" V 6405 3832 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6450 3900 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 6450 3900 50  0001 C CNN
 F 3 "~" V 6450 3900 50  0001 C CNN
 	1    6450 3900
 	0    -1   -1   0   
@@ -571,7 +571,7 @@ U 1 1 64767389
 P 10500 3200
 F 0 "D34" V 10546 3132 50  0000 R CNN
 F 1 "D_Small" V 10455 3132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 10500 3200 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 10500 3200 50  0001 C CNN
 F 3 "~" V 10500 3200 50  0001 C CNN
 	1    10500 3200
 	0    -1   -1   0   
@@ -595,7 +595,7 @@ U 1 1 6476737C
 P 10050 3200
 F 0 "D33" V 10096 3132 50  0000 R CNN
 F 1 "D_Small" V 10005 3132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 10050 3200 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 10050 3200 50  0001 C CNN
 F 3 "~" V 10050 3200 50  0001 C CNN
 	1    10050 3200
 	0    -1   -1   0   
@@ -619,7 +619,7 @@ U 1 1 6476736F
 P 9600 3200
 F 0 "D32" V 9646 3132 50  0000 R CNN
 F 1 "D_Small" V 9555 3132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 9600 3200 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 9600 3200 50  0001 C CNN
 F 3 "~" V 9600 3200 50  0001 C CNN
 	1    9600 3200
 	0    -1   -1   0   
@@ -643,7 +643,7 @@ U 1 1 64767362
 P 9150 3200
 F 0 "D31" V 9196 3132 50  0000 R CNN
 F 1 "D_Small" V 9105 3132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 9150 3200 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 9150 3200 50  0001 C CNN
 F 3 "~" V 9150 3200 50  0001 C CNN
 	1    9150 3200
 	0    -1   -1   0   
@@ -667,7 +667,7 @@ U 1 1 64767355
 P 8700 3200
 F 0 "D30" V 8746 3132 50  0000 R CNN
 F 1 "D_Small" V 8655 3132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 8700 3200 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 8700 3200 50  0001 C CNN
 F 3 "~" V 8700 3200 50  0001 C CNN
 	1    8700 3200
 	0    -1   -1   0   
@@ -691,7 +691,7 @@ U 1 1 64767348
 P 8250 3200
 F 0 "D29" V 8296 3132 50  0000 R CNN
 F 1 "D_Small" V 8205 3132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 8250 3200 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 8250 3200 50  0001 C CNN
 F 3 "~" V 8250 3200 50  0001 C CNN
 	1    8250 3200
 	0    -1   -1   0   
@@ -715,7 +715,7 @@ U 1 1 6476733B
 P 7800 3200
 F 0 "D28" V 7846 3132 50  0000 R CNN
 F 1 "D_Small" V 7755 3132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7800 3200 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 7800 3200 50  0001 C CNN
 F 3 "~" V 7800 3200 50  0001 C CNN
 	1    7800 3200
 	0    -1   -1   0   
@@ -739,7 +739,7 @@ U 1 1 6476732E
 P 7350 3200
 F 0 "D27" V 7396 3132 50  0000 R CNN
 F 1 "D_Small" V 7305 3132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7350 3200 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 7350 3200 50  0001 C CNN
 F 3 "~" V 7350 3200 50  0001 C CNN
 	1    7350 3200
 	0    -1   -1   0   
@@ -763,7 +763,7 @@ U 1 1 64767321
 P 6900 3200
 F 0 "D26" V 6946 3132 50  0000 R CNN
 F 1 "D_Small" V 6855 3132 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6900 3200 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 6900 3200 50  0001 C CNN
 F 3 "~" V 6900 3200 50  0001 C CNN
 	1    6900 3200
 	0    -1   -1   0   
@@ -785,7 +785,7 @@ U 1 1 64727BDF
 P 10500 2500
 F 0 "D22" V 10546 2432 50  0000 R CNN
 F 1 "D_Small" V 10455 2432 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 10500 2500 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 10500 2500 50  0001 C CNN
 F 3 "~" V 10500 2500 50  0001 C CNN
 	1    10500 2500
 	0    -1   -1   0   
@@ -809,7 +809,7 @@ U 1 1 64727BD2
 P 10050 2500
 F 0 "D21" V 10096 2432 50  0000 R CNN
 F 1 "D_Small" V 10005 2432 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 10050 2500 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 10050 2500 50  0001 C CNN
 F 3 "~" V 10050 2500 50  0001 C CNN
 	1    10050 2500
 	0    -1   -1   0   
@@ -833,7 +833,7 @@ U 1 1 64727BC5
 P 9600 2500
 F 0 "D20" V 9646 2432 50  0000 R CNN
 F 1 "D_Small" V 9555 2432 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 9600 2500 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 9600 2500 50  0001 C CNN
 F 3 "~" V 9600 2500 50  0001 C CNN
 	1    9600 2500
 	0    -1   -1   0   
@@ -857,7 +857,7 @@ U 1 1 64727BB8
 P 9150 2500
 F 0 "D19" V 9196 2432 50  0000 R CNN
 F 1 "D_Small" V 9105 2432 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 9150 2500 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 9150 2500 50  0001 C CNN
 F 3 "~" V 9150 2500 50  0001 C CNN
 	1    9150 2500
 	0    -1   -1   0   
@@ -881,7 +881,7 @@ U 1 1 64727BAB
 P 8700 2500
 F 0 "D18" V 8746 2432 50  0000 R CNN
 F 1 "D_Small" V 8655 2432 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 8700 2500 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 8700 2500 50  0001 C CNN
 F 3 "~" V 8700 2500 50  0001 C CNN
 	1    8700 2500
 	0    -1   -1   0   
@@ -905,7 +905,7 @@ U 1 1 64727B9E
 P 8250 2500
 F 0 "D17" V 8296 2432 50  0000 R CNN
 F 1 "D_Small" V 8205 2432 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 8250 2500 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 8250 2500 50  0001 C CNN
 F 3 "~" V 8250 2500 50  0001 C CNN
 	1    8250 2500
 	0    -1   -1   0   
@@ -929,7 +929,7 @@ U 1 1 64727B91
 P 7800 2500
 F 0 "D16" V 7846 2432 50  0000 R CNN
 F 1 "D_Small" V 7755 2432 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7800 2500 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 7800 2500 50  0001 C CNN
 F 3 "~" V 7800 2500 50  0001 C CNN
 	1    7800 2500
 	0    -1   -1   0   
@@ -953,7 +953,7 @@ U 1 1 64727B84
 P 7350 2500
 F 0 "D15" V 7396 2432 50  0000 R CNN
 F 1 "D_Small" V 7305 2432 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7350 2500 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 7350 2500 50  0001 C CNN
 F 3 "~" V 7350 2500 50  0001 C CNN
 	1    7350 2500
 	0    -1   -1   0   
@@ -977,7 +977,7 @@ U 1 1 64727B77
 P 6900 2500
 F 0 "D14" V 6946 2432 50  0000 R CNN
 F 1 "D_Small" V 6855 2432 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6900 2500 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 6900 2500 50  0001 C CNN
 F 3 "~" V 6900 2500 50  0001 C CNN
 	1    6900 2500
 	0    -1   -1   0   
@@ -1001,7 +1001,7 @@ U 1 1 64727B6A
 P 6450 2500
 F 0 "D13" V 6496 2432 50  0000 R CNN
 F 1 "D_Small" V 6405 2432 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6450 2500 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 6450 2500 50  0001 C CNN
 F 3 "~" V 6450 2500 50  0001 C CNN
 	1    6450 2500
 	0    -1   -1   0   
@@ -1023,7 +1023,7 @@ U 1 1 64710B4B
 P 10500 1800
 F 0 "D10" V 10546 1732 50  0000 R CNN
 F 1 "D_Small" V 10455 1732 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 10500 1800 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 10500 1800 50  0001 C CNN
 F 3 "~" V 10500 1800 50  0001 C CNN
 	1    10500 1800
 	0    -1   -1   0   
@@ -1047,7 +1047,7 @@ U 1 1 64710B3E
 P 10050 1800
 F 0 "D9" V 10096 1732 50  0000 R CNN
 F 1 "D_Small" V 10005 1732 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 10050 1800 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 10050 1800 50  0001 C CNN
 F 3 "~" V 10050 1800 50  0001 C CNN
 	1    10050 1800
 	0    -1   -1   0   
@@ -1071,7 +1071,7 @@ U 1 1 6470D37F
 P 9600 1800
 F 0 "D8" V 9646 1732 50  0000 R CNN
 F 1 "D_Small" V 9555 1732 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 9600 1800 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 9600 1800 50  0001 C CNN
 F 3 "~" V 9600 1800 50  0001 C CNN
 	1    9600 1800
 	0    -1   -1   0   
@@ -1095,7 +1095,7 @@ U 1 1 6470D372
 P 9150 1800
 F 0 "D7" V 9196 1732 50  0000 R CNN
 F 1 "D_Small" V 9105 1732 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 9150 1800 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 9150 1800 50  0001 C CNN
 F 3 "~" V 9150 1800 50  0001 C CNN
 	1    9150 1800
 	0    -1   -1   0   
@@ -1119,7 +1119,7 @@ U 1 1 6470D365
 P 8700 1800
 F 0 "D6" V 8746 1732 50  0000 R CNN
 F 1 "D_Small" V 8655 1732 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 8700 1800 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 8700 1800 50  0001 C CNN
 F 3 "~" V 8700 1800 50  0001 C CNN
 	1    8700 1800
 	0    -1   -1   0   
@@ -1143,7 +1143,7 @@ U 1 1 6470D358
 P 8250 1800
 F 0 "D5" V 8296 1732 50  0000 R CNN
 F 1 "D_Small" V 8205 1732 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 8250 1800 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 8250 1800 50  0001 C CNN
 F 3 "~" V 8250 1800 50  0001 C CNN
 	1    8250 1800
 	0    -1   -1   0   
@@ -1167,7 +1167,7 @@ U 1 1 64709D85
 P 7800 1800
 F 0 "D4" V 7846 1732 50  0000 R CNN
 F 1 "D_Small" V 7755 1732 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7800 1800 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 7800 1800 50  0001 C CNN
 F 3 "~" V 7800 1800 50  0001 C CNN
 	1    7800 1800
 	0    -1   -1   0   
@@ -1191,7 +1191,7 @@ U 1 1 64709D78
 P 7350 1800
 F 0 "D3" V 7396 1732 50  0000 R CNN
 F 1 "D_Small" V 7305 1732 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7350 1800 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 7350 1800 50  0001 C CNN
 F 3 "~" V 7350 1800 50  0001 C CNN
 	1    7350 1800
 	0    -1   -1   0   
@@ -1215,7 +1215,7 @@ U 1 1 64708302
 P 6900 1800
 F 0 "D2" V 6946 1732 50  0000 R CNN
 F 1 "D_Small" V 6855 1732 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6900 1800 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 6900 1800 50  0001 C CNN
 F 3 "~" V 6900 1800 50  0001 C CNN
 	1    6900 1800
 	0    -1   -1   0   
@@ -1237,7 +1237,7 @@ U 1 1 64704957
 P 6450 1800
 F 0 "D1" V 6496 1732 50  0000 R CNN
 F 1 "D_Small" V 6405 1732 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 6450 1800 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 6450 1800 50  0001 C CNN
 F 3 "~" V 6450 1800 50  0001 C CNN
 	1    6450 1800
 	0    -1   -1   0   
@@ -1291,7 +1291,7 @@ U 1 1 646D85CB
 P 4250 1700
 F 0 "SW1" H 4250 1985 50  0000 C CNN
 F 1 "RESET" H 4250 1894 50  0000 C CNN
-F 2 "Keebio-Parts:SW_SPST_TL3342" H 4250 1900 50  0001 C CNN
+F 2 "random-keyboard-parts:PushButton_6x6mm_TH" H 4250 1900 50  0001 C CNN
 F 3 "~" H 4250 1900 50  0001 C CNN
 	1    4250 1700
 	1    0    0    -1  
@@ -1322,7 +1322,7 @@ U 1 1 649C01AA
 P 3400 4350
 F 0 "RE1" H 3400 4717 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 3400 4626 50  0000 C CNN
-F 2 "reversible-kicad-footprints:MX-1U-EC11_Switch" H 3250 4510 50  0001 C CNN
+F 2 "bed-face-components:EC11_Switch-EDIT" H 3250 4510 50  0001 C CNN
 F 3 "~" H 3400 4610 50  0001 C CNN
 	1    3400 4350
 	1    0    0    -1  
@@ -1333,7 +1333,7 @@ U 1 1 649C2D66
 P 3400 5750
 F 0 "RE3" H 3400 6117 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 3400 6026 50  0000 C CNN
-F 2 "reversible-kicad-footprints:MX-1U-EC11_Switch" H 3250 5910 50  0001 C CNN
+F 2 "bed-face-components:EC11_Switch-EDIT" H 3250 5910 50  0001 C CNN
 F 3 "~" H 3400 6010 50  0001 C CNN
 	1    3400 5750
 	1    0    0    -1  
@@ -1344,7 +1344,7 @@ U 1 1 649C3EB4
 P 4700 4350
 F 0 "RE5" H 4700 4717 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 4700 4626 50  0000 C CNN
-F 2 "reversible-kicad-footprints:MX-1U-EC11_Switch" H 4550 4510 50  0001 C CNN
+F 2 "bed-face-components:EC11_Switch-EDIT" H 4550 4510 50  0001 C CNN
 F 3 "~" H 4700 4610 50  0001 C CNN
 	1    4700 4350
 	1    0    0    -1  
@@ -1355,7 +1355,7 @@ U 1 1 649C4D68
 P 4700 5750
 F 0 "RE7" H 4700 6117 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 4700 6026 50  0000 C CNN
-F 2 "reversible-kicad-footprints:MX-1U-EC11_Switch" H 4550 5910 50  0001 C CNN
+F 2 "bed-face-components:EC11_Switch-EDIT" H 4550 5910 50  0001 C CNN
 F 3 "~" H 4700 6010 50  0001 C CNN
 	1    4700 5750
 	1    0    0    -1  
@@ -1414,7 +1414,7 @@ U 1 1 649C8317
 P 3400 5050
 F 0 "RE2" H 3400 5417 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 3400 5326 50  0000 C CNN
-F 2 "reversible-kicad-footprints:MX-1U-EC11_Switch" H 3250 5210 50  0001 C CNN
+F 2 "bed-face-components:EC11_Switch-EDIT" H 3250 5210 50  0001 C CNN
 F 3 "~" H 3400 5310 50  0001 C CNN
 	1    3400 5050
 	1    0    0    -1  
@@ -1425,7 +1425,7 @@ U 1 1 649C831D
 P 3400 6450
 F 0 "RE4" H 3400 6817 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 3400 6726 50  0000 C CNN
-F 2 "reversible-kicad-footprints:MX-1U-EC11_Switch" H 3250 6610 50  0001 C CNN
+F 2 "bed-face-components:EC11_Switch-EDIT" H 3250 6610 50  0001 C CNN
 F 3 "~" H 3400 6710 50  0001 C CNN
 	1    3400 6450
 	1    0    0    -1  
@@ -1436,7 +1436,7 @@ U 1 1 649C8323
 P 4700 5050
 F 0 "RE6" H 4700 5417 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 4700 5326 50  0000 C CNN
-F 2 "reversible-kicad-footprints:MX-1U-EC11_Switch" H 4550 5210 50  0001 C CNN
+F 2 "bed-face-components:EC11_Switch-EDIT" H 4550 5210 50  0001 C CNN
 F 3 "~" H 4700 5310 50  0001 C CNN
 	1    4700 5050
 	1    0    0    -1  
@@ -1447,7 +1447,7 @@ U 1 1 649C8329
 P 4700 6450
 F 0 "RE8" H 4700 6817 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 4700 6726 50  0000 C CNN
-F 2 "reversible-kicad-footprints:MX-1U-EC11_Switch" H 4550 6610 50  0001 C CNN
+F 2 "bed-face-components:EC11_Switch-EDIT" H 4550 6610 50  0001 C CNN
 F 3 "~" H 4700 6710 50  0001 C CNN
 	1    4700 6450
 	1    0    0    -1  
@@ -1507,7 +1507,7 @@ U 1 1 64767432
 P 10500 4600
 F 0 "D47" V 10546 4532 50  0000 R CNN
 F 1 "D_Small" V 10455 4532 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 10500 4600 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 10500 4600 50  0001 C CNN
 F 3 "~" V 10500 4600 50  0001 C CNN
 	1    10500 4600
 	0    -1   -1   0   
@@ -1520,7 +1520,7 @@ U 1 1 6476743F
 P 10050 4600
 F 0 "D48" V 10096 4532 50  0000 R CNN
 F 1 "D_Small" V 10005 4532 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 10050 4600 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 10050 4600 50  0001 C CNN
 F 3 "~" V 10050 4600 50  0001 C CNN
 	1    10050 4600
 	0    -1   -1   0   
@@ -1555,7 +1555,7 @@ U 1 1 64767396
 P 9600 4600
 F 0 "D35" V 9646 4532 50  0000 R CNN
 F 1 "D_Small" V 9555 4532 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 9600 4600 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 9600 4600 50  0001 C CNN
 F 3 "~" V 9600 4600 50  0001 C CNN
 	1    9600 4600
 	0    -1   -1   0   
@@ -1579,7 +1579,7 @@ U 1 1 647673A3
 P 9150 4600
 F 0 "D36" V 9196 4532 50  0000 R CNN
 F 1 "D_Small" V 9105 4532 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 9150 4600 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 9150 4600 50  0001 C CNN
 F 3 "~" V 9150 4600 50  0001 C CNN
 	1    9150 4600
 	0    -1   -1   0   
@@ -1601,7 +1601,7 @@ U 1 1 64727BEC
 P 8250 4600
 F 0 "D23" V 8296 4532 50  0000 R CNN
 F 1 "D_Small" V 8205 4532 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 8250 4600 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 8250 4600 50  0001 C CNN
 F 3 "~" V 8250 4600 50  0001 C CNN
 	1    8250 4600
 	0    -1   -1   0   
@@ -1625,7 +1625,7 @@ U 1 1 64727BF9
 P 8700 4600
 F 0 "D24" V 8746 4532 50  0000 R CNN
 F 1 "D_Small" V 8655 4532 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 8700 4600 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 8700 4600 50  0001 C CNN
 F 3 "~" V 8700 4600 50  0001 C CNN
 	1    8700 4600
 	0    -1   -1   0   
@@ -1647,7 +1647,7 @@ U 1 1 64710B58
 P 7800 4600
 F 0 "D11" V 7846 4532 50  0000 R CNN
 F 1 "D_Small" V 7755 4532 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7800 4600 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 7800 4600 50  0001 C CNN
 F 3 "~" V 7800 4600 50  0001 C CNN
 	1    7800 4600
 	0    -1   -1   0   
@@ -1671,7 +1671,7 @@ U 1 1 64710B65
 P 7350 4600
 F 0 "D12" V 7396 4532 50  0000 R CNN
 F 1 "D_Small" V 7305 4532 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 7350 4600 50  0001 C CNN
+F 2 "bed-face-components:Diode-Hybrid-Back-EDIT" V 7350 4600 50  0001 C CNN
 F 3 "~" V 7350 4600 50  0001 C CNN
 	1    7350 4600
 	0    -1   -1   0   
@@ -1786,18 +1786,16 @@ ROW4
 $Comp
 L Connector:Conn_01x02_Male J1
 U 1 1 6481C4F6
-P 4600 2650
-F 0 "J1" H 4572 2532 50  0000 R CNN
-F 1 "BATTERY" H 4572 2623 50  0000 R CNN
-F 2 "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal" H 4600 2650 50  0001 C CNN
-F 3 "~" H 4600 2650 50  0001 C CNN
-	1    4600 2650
+P 4900 3200
+F 0 "J1" H 4872 3082 50  0000 R CNN
+F 1 "BATTERY" H 4872 3173 50  0000 R CNN
+F 2 "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal" H 4900 3200 50  0001 C CNN
+F 3 "~" H 4900 3200 50  0001 C CNN
+	1    4900 3200
 	-1   0    0    1   
 $EndComp
-Text GLabel 4400 2550 0    50   Input ~ 0
+Text GLabel 3850 3150 0    50   Input ~ 0
 4.7V
-Text GLabel 4400 2650 0    50   Input ~ 0
-GND
 $Comp
 L power:VCC #PWR0101
 U 1 1 64849023
@@ -1864,4 +1862,32 @@ F 3 "" H 8900 5500 60  0001 C CNN
 	1    8900 5500
 	1    0    0    -1  
 $EndComp
+$Comp
+L Switch:SW_SPDT SW2
+U 1 1 64856E5A
+P 4050 3150
+F 0 "SW2" H 4050 3435 50  0000 C CNN
+F 1 "SW_SPDT" H 4050 3344 50  0000 C CNN
+F 2 "" H 4050 3150 50  0001 C CNN
+F 3 "~" H 4050 3150 50  0001 C CNN
+	1    4050 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4250 3050 4500 3050
+Wire Wire Line
+	4500 3050 4500 3100
+Wire Wire Line
+	4500 3100 4700 3100
+Wire Wire Line
+	4250 3250 4500 3250
+Wire Wire Line
+	4500 3250 4500 3200
+Wire Wire Line
+	4500 3200 4700 3200
+Text GLabel 4500 3300 3    50   Input ~ 0
+GND
+Wire Wire Line
+	4500 3250 4500 3300
+Connection ~ 4500 3250
 $EndSCHEMATC
