@@ -1,4 +1,4 @@
-16963216485591289
+16966592936798314
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50729,13 +50729,6 @@ MXOnly-1U
 4
 4
 MX_Only
-MXOnly-1U-EDIT
-
-
-0
-4
-4
-MX_Only
 MXOnly-1U-FLIPPED
 
 
@@ -50772,13 +50765,6 @@ MXOnly-1U-Hotswap-LED
 4
 MX_Only
 MXOnly-1U-NoLED
-
-
-0
-2
-2
-MX_Only
-MXOnly-1U-NoLED-EDIT
 
 
 0
@@ -51084,13 +51070,6 @@ MXOnly-2U-ReversedStabilizers-NoLED
 
 0
 2
-2
-MX_Only
-MXOnly-2U-ReversedStabilizers-NoLED-ComboSpace-EDIT
-
-
-0
-4
 2
 MX_Only
 MXOnly-2U-ReversedStabilizers-NoSwitch
@@ -74983,6 +74962,41 @@ varistor SIOV
 0
 2
 2
+bed-face-components
+MXOnly-1U-EDIT
+
+
+0
+4
+4
+bed-face-components
+MXOnly-1U-NoLED-EDIT
+
+
+0
+2
+2
+bed-face-components
+MXOnly-1U-NoLED-EDIT-No-Corners
+
+
+0
+2
+2
+bed-face-components
+MXOnly-2U-ReversedStabilizers-NoLED-ComboSpace-EDIT
+
+
+0
+4
+2
+bed-face-components
+standoff_hole
+
+
+0
+0
+0
 promicro
 ProMicro
 Pro Micro footprint
