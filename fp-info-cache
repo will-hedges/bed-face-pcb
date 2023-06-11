@@ -1,4 +1,4 @@
-16969965858925962
+16973339541808449
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -68949,6 +68949,606 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
+SparkFun-Switches
+BUTTON-18MM
+<h3>Magnetic Metal Snaps</h3>
+<p>18mm diameter snaps that couple together very strongly (must be pried apart), rotate freely on the axis, and are electrically conductive. Overall connection resistance is less than 200 miliOhm. Snaps will couple when closer than 10mm.</p>
+<h4>SparkFun Products</h4>
+<ul><li><a href="https://www.sparkfun.com/products/8682">Magnetic Snap 18mm</a> (WRL-08682)</li></ul>
+
+0
+2
+2
+SparkFun-Switches
+BUTTON-CONDUCTIVE
+<h3>Conductive Button</h3>
+<p>Used with rubber key pads on the <a href="https://www.sparkfun.com/products/retired/8602">Nordic Key FOB</a>. This one was designed and proven to work with the <a href="https://www.sparkfun.com/products/retired/9377">PolyCase Key FOB enclosures</a>.</p>
+
+0
+2
+2
+SparkFun-Switches
+BUTTONPAD-2X2
+<h3>2x2 Button Pad w/ RGB LEDs</h3>
+<p>Layout and schematic for 2x2 button pad with single-color LEDs under each button. For use with the <a href="https://www.sparkfun.com/products/7836">Button Pad 2x2 - LED Compatible</a> and <a href="https://www.sparkfun.com/products/8746">Button Pad 2x2 Top Bezel</a>.</p>
+<p>Any <a href="https://www.sparkfun.com/categories/172">RGB-color 5mm LED</a> should be compatible.</p>
+
+0
+24
+24
+SparkFun-Switches
+BUTTONPAD-2X2-SINGLE-LED
+<h3>2x2 Button Pad w/ Single LEDs</h3>
+<p>Layout and schematic for 2x2 button pad with single-color LEDs under each button. For use with the <a href="https://www.sparkfun.com/products/7836">Button Pad 2x2 - LED Compatible</a> and <a href="https://www.sparkfun.com/products/8746">Button Pad 2x2 Top Bezel</a>.</p>
+<p>Any <a href="https://www.sparkfun.com/categories/172">single-color 5mm LED</a> should be compatible.</p>
+
+0
+16
+16
+SparkFun-Switches
+BUTTONPAD-2X2-SINGLE-LED-KIT
+<h3>2x2 Button Pad w/ Single LEDs</h3>
+<p>Layout and schematic for 2x2 button pad with single-color LEDs under each button. For use with the <a href="https://www.sparkfun.com/products/7836">Button Pad 2x2 - LED Compatible</a> and <a href="https://www.sparkfun.com/products/8746">Button Pad 2x2 Top Bezel</a>.</p>
+<p>Any <a href="https://www.sparkfun.com/categories/172">single-color 5mm LED</a> should be compatible.</p>
+<b>Warning:</b> This is the KIT version of this package. This package has a smaller diameter top stop mask, which doesn't cover the diameter of the pad. This means only the bottom side of the pads' copper will be exposed. You'll only be able to solder to the bottom side.
+
+0
+16
+16
+SparkFun-Switches
+BUTTONPAD-2X2-STAGGERED
+<h3>2x2 Button Pad w/ RGB LEDs - Staggered LED Footprint</h3>
+<p>Layout and schematic for 2x2 button pad with single-color LEDs under each button. For use with the <a href="https://www.sparkfun.com/products/7836">Button Pad 2x2 - LED Compatible</a> and <a href="https://www.sparkfun.com/products/8746">Button Pad 2x2 Top Bezel</a>.</p>
+<p>Any <a href="https://www.sparkfun.com/categories/172">RGB-color 5mm LED</a> should be compatible.</p>
+
+0
+24
+24
+SparkFun-Switches
+BUTTONPAD-4X4
+<h3>4x4 Button Pad w/ RGB LEDs</h3>
+<p>Layout and schematic for 4x4 button pad with tri-color LEDs under each button. For use with the 4x <a href="https://www.sparkfun.com/products/7836">Button Pad 2x2 - LED Compatible</a> and 4x <a href="https://www.sparkfun.com/products/8746">Button Pad 2x2 Top Bezel</a>.</p>
+<p>Any <a href="https://www.sparkfun.com/categories/172">RGB 5mm LED</a> should be compatible.</p>
+
+0
+96
+96
+SparkFun-Switches
+BUTTONPAD-4X4-STAGGERED
+<h3>4x4 Button Pad w/ RGB LEDs - Staggered LED Footprint</h3>
+<p>Layout and schematic for 4x4 button pad with tri-color LEDs under each button. For use with the 4x <a href="https://www.sparkfun.com/products/7836">Button Pad 2x2 - LED Compatible</a> and 4x <a href="https://www.sparkfun.com/products/8746">Button Pad 2x2 Top Bezel</a>.</p>
+<p>Any <a href="https://www.sparkfun.com/categories/172">RGB 5mm LED</a> should be compatible.</p>
+
+0
+96
+96
+SparkFun-Switches
+CHERRY-MX-LED
+<h3>Cherry MX Switch - Electromechanical Swith w/ LED</h3>
+
+<p>Cherry MX Keyswitches are top-of-the-line mechanical keyboard switches. They’re satisfyingly “clicky”, reliable up to tens-of-millions of key presses, and a standard in gaming and programming keyboards across the globe. This ‘blue’ version Cherry MX Switch is favored by most due to its secondary internal actuator making it less likely to “double-tap.” If you are looking for a noticeably audible and high-quality key switch, this is the perfect option for you!</p>
+
+<p><a href="https://www.sparkfun.com/products/13834">SparkFun Product Link</a></p>
+<p><a href="https://cdn.sparkfun.com/datasheets/Components/Switches/MX%20Series.pdf">Datasheet</a></p>
+
+0
+4
+4
+SparkFun-Switches
+CHERRY-MX-LED-1.5U
+
+
+0
+4
+4
+SparkFun-Switches
+CHERRY-MX-LED-1.25U
+
+
+0
+4
+4
+SparkFun-Switches
+CHERRY-MX-LED-1.75U
+
+
+0
+4
+4
+SparkFun-Switches
+CHERRY-MX-LED-1U
+
+
+0
+4
+4
+SparkFun-Switches
+CHERRY-MX-LED-1X2.5U
+
+
+0
+4
+4
+SparkFun-Switches
+CHERRY-MX-LED-1X2.25
+
+
+0
+4
+4
+SparkFun-Switches
+CHERRY-MX-LED-1X2.75
+
+
+0
+4
+4
+SparkFun-Switches
+CHERRY-MX-LED-1X2U
+
+
+0
+4
+4
+SparkFun-Switches
+CHERRY-MX-LED-1X6.25
+
+
+0
+4
+4
+SparkFun-Switches
+CHERRY-MX-LED-2X1U
+
+
+0
+4
+4
+SparkFun-Switches
+CHERRY-MX-LED-BIG-ASS-ENTER
+
+
+0
+4
+4
+SparkFun-Switches
+CHERRY-MX-LED-ISO-ENTER
+
+
+0
+4
+4
+SparkFun-Switches
+DIPSWITCH-02-50MIL
+<b>2-Pin DIP Switch - SMD, 0.05"-Pitch</b>
+<p>Half-size SMT DIP switch, 1.27 mm / 0.05" pitch. For example the following:</p>
+<ul>
+  <li>A6H-2101 or A6H-2102 in Omron A6H series; <a href="http://www.omron.com/ecb/products/pdf/en-a6h.pdf">Datasheet</a></li>
+  <li>Digikey <a href="http://www.digikey.com/product-detail/en/A6H-2101/A6H-2101-ND/1811590">A6H-2101-ND</a></li>
+</ul>
+
+0
+4
+4
+SparkFun-Switches
+DIPSWITCH-02-209-2LPST
+<h3>2-Position DIP Switch - PTH 0.1"-Pitch</h3>
+<p>2-circuit DIP (dual inline package) switch. Commonly used to physcially set a circuit's behavior.</p>
+<p><a href="http://www.ctscorp.com/wp-content/uploads/209-210.pdf">Datasheet</a> (209-2LPST )</p>
+
+0
+4
+4
+SparkFun-Switches
+DIPSWITCH-02-CHS-02A
+<h3>2-Position DIP Switch - SMD, J-Hook Pads, 0.05"-Pitch</h3>
+<p>2-circuit DIP (dual inline package) switch. Commonly used to physcially set a circuit's behavior.</p>
+<p><a href="http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf">Datasheet</a></p>
+
+0
+4
+4
+SparkFun-Switches
+DIPSWITCH-04-SMD
+<h3>4-Position DIP Switch - SMD, 0.1"-Pitch</h3>
+<p><a href="http://www.ctscorp.com/wp-content/uploads/2015/11/219.pdf">Datasheet</a> (219-4MST)</p>
+
+0
+8
+8
+SparkFun-Switches
+DIPSWITCH-06-SMD
+
+
+0
+12
+12
+SparkFun-Switches
+DIPSWITCH-08
+<h3>8-Position DIP Switch - PTH, 0.1"-Pitch</h3>
+<p>Standard size through-hole DIP switch, 2.54 mm / 0.1" pitch</p>
+<p><a href="http://www.sparkfun.com/datasheets/Components/Switch-DIP8.pdf">Datasheet</a></p>
+
+0
+16
+16
+SparkFun-Switches
+ENCODER-16MM-QUAD
+<h3>Rotary Encoder - 16mm Top Width</h3>
+<p>Encoders rotate similarly to potentiometers, but they’re different from potentiometers in that an encoder has full rotation without limits. They output gray code so that you can tell how much and in which direction the encoder has been turned.</p>
+<p><a href="http://www.top-up.com.tw/front/bin/ptdetail.phtml?Part=EC16PXHFB-B">Datasheet</a> (EC16PHBF-B-20F-24-24C-16Y)</p>
+
+0
+5
+5
+SparkFun-Switches
+ENCODER_LED_2
+<h3>Illuminated Rotary Encoder w/ 2 LEDs</h3>
+<p>Rotary encoders rotate similarly to potentiometers, but they’re different from potentiometers in that an encoder has full rotation without limits. They output gray code so that you can tell how much and in which direction the encoder has been turned.</p>
+<p>This encoder has a red/green LED built-in, which shines through the encoder shaft.</p>
+<p><a href="http://cdn.sparkfun.com/datasheets/Components/LED/EC12PLRVF-D-24K-24-24C-0206-6H%28SPEC%29.pdf">Datasheet</a> (EC12PLGRSDVF-D-25K-24-32/07-6H)</p>
+
+0
+9
+9
+SparkFun-Switches
+ENCODER_LED_2_KIT
+<h3>Illuminated Rotary Encoder w/ 2 LEDs - KIT Package</h3>
+<p>Rotary encoders rotate similarly to potentiometers, but they’re different from potentiometers in that an encoder has full rotation without limits. They output gray code so that you can tell how much and in which direction the encoder has been turned.</p>
+<p>This encoder has a red/green LED built-in, which shines through the encoder shaft.</p>
+<b>Warning:</b> This is the KIT version of this package. This package has a smaller diameter top stop mask, which doesn't cover the diameter of the pad. This means only the bottom side of the pads' copper will be exposed. You'll only be able to solder to the bottom side.</p>
+<p><a href="http://cdn.sparkfun.com/datasheets/Components/LED/EC12PLRVF-D-24K-24-24C-0206-6H%28SPEC%29.pdf">Datasheet</a> (EC12PLGRSDVF-D-25K-24-32/07-6H)</p>
+
+0
+9
+9
+SparkFun-Switches
+ENCODER_LED_3
+<h3>Illuminated Rotary Encoder w/ RGB LED and select switch</h3>
+<p>Encoders rotate similarly to potentiometers, but they’re different from potentiometers in that an encoder has full rotation without limits. They output gray code so that you can tell how much and in which direction the encoder has been turned.</p>
+<p>This encoder includes an RGB LED and a push-down select switch.</p>
+<p><a href="http://cdn.sparkfun.com/datasheets/Components/Switches/EC12PLRGBSDVBF-D-25K-24-24C-6108-6H.pdf">Dimensional Drawing</a></p>
+
+0
+10
+10
+SparkFun-Switches
+ENCODER_LED_3_KIT
+<h3>Illuminated Rotary Encoder w/ RGB LED and select switch</h3>
+<p>Encoders rotate similarly to potentiometers, but they’re different from potentiometers in that an encoder has full rotation without limits. They output gray code so that you can tell how much and in which direction the encoder has been turned.</p>
+<p>This encoder includes an RGB LED and a push-down select switch.</p>
+<p><b>Warning:</b> This is the KIT version of this package. This package has a smaller diameter top stop mask, which doesn't cover the diameter of the pad. This means only the bottom side of the pads' copper will be exposed. You'll only be able to solder to the bottom side.</p>
+<p><a href="http://cdn.sparkfun.com/datasheets/Components/Switches/EC12PLRGBSDVBF-D-25K-24-24C-6108-6H.pdf">Dimensional Drawing</a></p>
+
+0
+10
+10
+SparkFun-Switches
+JOYSTICK
+<h3>Thumb Joystick</h3>
+<p>This is a joystick very similar to the ‘analog’ joysticks on PS2 (PlayStation 2) controllers. Directional movements are simply two potentiometers - one for each axis. Pots are ~10k each. This joystick also has a select button that is actuated when the joystick is pressed down.</p>
+<p><a href="http://www.p3america.com/pp/802.htm">Datasheet</a></p>
+
+0
+14
+14
+SparkFun-Switches
+JOYSTICK-PSP1000
+<h3>PSP-1000 Thumb Slide Joystick</h3>
+<p>This is a resistive analog joystick, very similar to those found on the PSP1000. These compact joysticks are different in that they have a very interesting ‘slide’ feeling.</p>
+<p><a href="https://www.sparkfun.com/products/9426">Product Page</a></p>
+
+0
+4
+4
+SparkFun-Switches
+JOYSTICK_MINI
+<h3>Small Tactile Joystick w/ Select Switch</h3>
+<p>A 5-way tactile switch allows for a joystick-like interface in a very small package.</p>
+<p><a href="http://www.sparkfun.com/datasheets/Components/Buttons/SF303GJ26-3.pdf">Datasheet</a></p>
+
+0
+8
+8
+SparkFun-Switches
+NAV_SWITCH
+<h3>Navigation Switch</h3>
+<p>Three way navigation switch. Commonly used as up/down/select on MP3 players. Schematic element and footprint production proven.</p>
+<p><a href="http://cdn.sparkfun.com/datasheets/Components/Switches/LEVER8184.pdf">Datasheet</a></p>
+
+0
+5
+5
+SparkFun-Switches
+REED_SWITCH_GLASS
+<h3>Reed Switch - Glass case - PTH</h3>
+<p>A reed switch is a magnetically-actuated switch. When the device is exposed to a magnetic field, the two ferrous materials inside the switch pull together and the switch closes.</p>
+<p><a href="https://www.sparkfun.com/datasheets/Components/Buttons/MDSR-4.pdf">Datasheet</a></p>
+
+0
+2
+2
+SparkFun-Switches
+REED_SWITCH_PLASTIC
+<h3>Reed Switch - Insulated Case - PTH</h3>
+<p>A reed switch is a magnetically-actuated switch. When the device is exposed to a magnetic field, the two ferrous materials inside the switch pull together and the switch closes.</p>
+<p><a href="https://cdn.sparkfun.com/datasheets/Dev/LilyPad/RS-01C.jpg">Datasheet</a> (RS-01C)</p>
+
+0
+2
+2
+SparkFun-Switches
+ROTARY_ENC_PLAIN
+<h3>Rotary Encoder w/ Select Switch</h3>
+<p>Encoders rotate similarly to potentiometers, but they’re different from potentiometers in that an encoder has full rotation without limits. They output gray code so that you can tell how much and in which direction the encoder has been turned.</p>
+<p>This encoder includes a push-down select switch built into the shaft.</p>
+<p><a href="http://www.sparkfun.com/datasheets/Components/TW-700198.pdf">Datasheet</a></p>
+
+0
+7
+7
+SparkFun-Switches
+ROTARY_SWITCH_1X10
+<h3>10-Position Rotary Switch</h3>
+<p>Taiwan Alpha 1 pole, 10 pos rotary switch.</p>
+<p>Arrows in tDocu denote pointer positions for 45-degree shaft, assuming a knob with a pointer that's opposite the set screw.</p>
+<p><a href="https://cdn.sparkfun.com/datasheets/Components/Switches/SP14040026%20SPEC.pdf">Datasheet</a> (Alpha PN SR2512F-0110-16f2b-c9-s-k)</p>
+
+0
+11
+11
+SparkFun-Switches
+ROTARY_SWITCH_1X10_KIT
+<h3>10-Position Rotary Switch - KIT Version</h3>
+<p>Taiwan Alpha 1 pole, 10 pos rotary switch.</p>
+<p>Arrows in tDocu denote pointer positions for 45-degree shaft, assuming a knob with a pointer that's opposite the set screw.</p>
+<p><b>Warning:</b> This is the KIT version of this package. This package has a smaller diameter top stop mask, which doesn't cover the diameter of the pad. This means only the bottom side of the pads' copper will be exposed. You'll only be able to solder to the bottom side.</p>
+<p><a href="https://cdn.sparkfun.com/datasheets/Components/Switches/SP14040026%20SPEC.pdf">Datasheet</a> (Alpha PN SR2512F-0110-16f2b-c9-s-k)</p>
+
+0
+11
+11
+SparkFun-Switches
+STOMP_SWITCH_3PDT
+<h3>3-Pole, Double-Throw (3PDT) Stomp Switch</h3>
+<p>Three-pole, double-throw stomp switch. Drawn as three separate gates for schematic clarity.</p>
+<p><a href="http://www.mouser.com/ds/2/13/SF17_SF12030F-492761.pdf">Datasheet</a></p>
+
+0
+9
+9
+SparkFun-Switches
+SWITCH_DPDT_PTH_GPI-152-3013
+<h3>CW Industries  GPI-152-3013  DPDT Switch - PTH</h3>
+<p>Double-pole, double-throw switches.</p>
+<p><a href="http://switches-connectors-custom.cwind.com/Asset/GPI-152-Dimension-DRAWING.pdf">Dimensional Drawing</a></p>
+
+0
+10
+10
+SparkFun-Switches
+SWITCH_DPDT_SMD_AYZ0202
+<h3>ITT Industries AYZ0202 DPDT Switch - SMD</h3>
+<p>Double-pole, double-throw switches.</p>
+<p><a href="https://www.sparkfun.com/datasheets/Components/SW_slide_ayz.pdf">Datasheet</a></p>
+
+0
+6
+6
+SparkFun-Switches
+SWITCH_DPDT_SMD_JS202011JCQN
+
+
+0
+6
+6
+SparkFun-Switches
+SWITCH_SP3T_SMD
+<h3>CUS Low-Profile SP3T Slide Switch - SMD</h3>
+<p><a href="http://www.nidec-copal-electronics.com/e/catalog/switch/cus.pdf">Datasheet</a> (CUS-13TB)</p>
+
+0
+8
+8
+SparkFun-Switches
+SWITCH_SPDT_8.6X4.3MM
+<h3>SPDT PTH Slide Switch</h3>
+<p>Single-pole, double-throw (SPDT) switch.</p>
+<p><a href="https://dznh3ojzb2azq.cloudfront.net/products/Slide/OS/documents/datasheet.pdf">Dimensional Drawing</a></p>
+
+0
+5
+5
+SparkFun-Switches
+SWITCH_SPDT_8.6X4.3MM_LOCK
+<h3>SPDT PTH Slide Switch</h3>
+<p>Single-pole, double-throw (SPDT) switch.</p>
+<p><a href="https://dznh3ojzb2azq.cloudfront.net/products/Slide/OS/documents/datasheet.pdf">Dimensional Drawing</a></p>
+
+0
+5
+5
+SparkFun-Switches
+SWITCH_SPDT_PTH_11.6X4.0MM
+<h3>SPDT PTH Slide Switch</h3>
+<p>Single-pole, double-throw (SPDT) switch.</p>
+<p><a href="https://www.sparkfun.com/datasheets/Components/Buttons/P040040c.pdf">Dimensional Drawing</a></p>
+
+0
+3
+3
+SparkFun-Switches
+SWITCH_SPDT_PTH_11.6X4.0MM_KIT
+<h3>SPDT PTH Slide Switch - KIT Footprint</h3>
+<p>Single-pole, double-throw (SPDT) switch.</p>
+<p><b>Warning:</b> This is the KIT version of this package. This package has a smaller diameter top stop mask, which doesn't cover the diameter of the pad. This means only the bottom side of the pads' copper will be exposed. You'll only be able to solder to the bottom side.</p>
+<p><a href="https://www.sparkfun.com/datasheets/Components/Buttons/P040040c.pdf">Dimensional Drawing</a></p>
+
+0
+3
+3
+SparkFun-Switches
+SWITCH_SPDT_PTH_11.6X4.0MM_LOCK
+<h3>SPDT PTH Slide Switch - Locking Footprint</h3>
+<p>Single-pole, double-throw (SPDT) switch.</p>
+<p><b>Warning:</b> This is the LOCK version of this package. This package has offset PTH pins, which help to hold the part in place while soldering.</p>
+<p><a href="https://www.sparkfun.com/datasheets/Components/Buttons/P040040c.pdf">Dimensional Drawing</a></p>
+
+0
+3
+3
+SparkFun-Switches
+SWITCH_SPST_SMD_A
+<h3>SPDT Slide Switch - SMD</h3>
+<p>Single-pole, double-throw (SPDT) switch.</p>
+<p><a href="http://cdn.sparkfun.com/datasheets/Components/Switches/SLIDE.pdf">Datasheet</a></p>
+
+0
+7
+7
+SparkFun-Switches
+TACTILE_SWITCH_LED_PTH_12MM
+<h3>Momentary Switch (Pushbutton) - SPST - w/ LED - PTH</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons), with a built-in LED.</p>
+<p><a href="https://www.sparkfun.com/datasheets/Components/General/TSD1265.png">Dimensional Drawing</a></p>
+
+0
+6
+6
+SparkFun-Switches
+TACTILE_SWITCH_LED_PTH_12MM_KIT
+<h3>Momentary Switch (Pushbutton) - SPST - w/ LED - PTH, KIT Variant</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons), with a built-in LED.</p>
+<p>KIT variant is for soldering kits. There is no tStop (covering up the top side of the pads with mask). This helps the beginner see which side they should be soldering too.</p>
+<p><a href="https://www.sparkfun.com/datasheets/Components/General/TSD1265.png">Dimensional Drawing</a></p>
+
+0
+6
+6
+SparkFun-Switches
+TACTILE_SWITCH_PTH_6.0MM
+<h3>Momentary Switch (Pushbutton) - SPST - PTH, 6.0mm Square</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons).</p>
+<p><a href="https://www.omron.com/ecb/products/pdf/en-b3f.pdf">Datasheet</a> (B3F-1000)</p>
+
+0
+4
+4
+SparkFun-Switches
+TACTILE_SWITCH_PTH_6.0MM_KIT
+<h3>Momentary Switch (Pushbutton) - SPST - PTH, 6.0mm Square</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons).</p>
+<p><b>Warning:</b> This is the KIT version of this package. This package has a smaller diameter top stop mask, which doesn't cover the diameter of the pad. This means only the bottom side of the pads' copper will be exposed. You'll only be able to solder to the bottom side.</p>
+<p><a href="https://www.omron.com/ecb/products/pdf/en-b3f.pdf">Datasheet</a> (B3F-1000)</p>
+
+0
+4
+4
+SparkFun-Switches
+TACTILE_SWITCH_PTH_12MM
+<h3>Momentary Switch (Pushbutton) - SPST - PTH, 12mm Square</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons).</p>
+<p><a href="https://www.omron.com/ecb/products/pdf/en-b3f.pdf">Datasheet</a> (B3F-5050)</p>
+
+0
+4
+4
+SparkFun-Switches
+TACTILE_SWITCH_PTH_RA_8-020
+
+
+0
+4
+4
+SparkFun-Switches
+TACTILE_SWITCH_PTH_RIGHT_ANGLE
+<h3>Momentary Switch (Pushbutton) - SPST - PTH, Right-angle</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons).</p>
+<p><a href="http://cdn.sparkfun.com/datasheets/Components/Switches/SW016.JPG">Dimensional Drawing</a></p>
+
+0
+4
+4
+SparkFun-Switches
+TACTILE_SWITCH_PTH_RIGHT_ANGLE_KIT
+<h3>Momentary Switch (Pushbutton) - SPST - PTH, Right-angle</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons).</p>
+<p><a href="http://cdn.sparkfun.com/datasheets/Components/Switches/SW016.JPG">Dimensional Drawing</a></p>
+
+0
+4
+4
+SparkFun-Switches
+TACTILE_SWITCH_SMD_4.5MM
+<h3>Momentary Switch (Pushbutton) - SPST - SMD, 4.5mm Square</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons).</p>
+<p><a href="http://spec_sheets.e-switch.com/specs/P010338.pdf">Dimensional Drawing</a></p>
+
+0
+4
+4
+SparkFun-Switches
+TACTILE_SWITCH_SMD_4.6X2.8MM
+<h3>Momentary Switch (Pushbutton) - SPST - SMD, 4.6 x 2.8mm</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons).</p>
+<p><a href="http://www.ck-components.com/media/1479/kmr2.pdf">Datasheet</a></p>
+
+0
+4
+4
+SparkFun-Switches
+TACTILE_SWITCH_SMD_5.2MM
+<h3>Momentary Switch (Pushbutton) - SPST - SMD, 5.2mm Square</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons).</p>
+<p><a href="https://www.sparkfun.com/datasheets/Components/Buttons/SMD-Button.pdf">Dimensional Drawing</a></p>
+
+0
+4
+4
+SparkFun-Switches
+TACTILE_SWITCH_SMD_6.0X3.5MM
+<h3>Momentary Switch (Pushbutton) - SPST - SMD, 6.0 x 3.5 mm</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons).</p>
+<p><a href="https://www.sparkfun.com/datasheets/Components/1101.pdf">Datasheet</a></p>
+
+0
+2
+2
+SparkFun-Switches
+TACTILE_SWITCH_SMD_6.2MM_TALL
+<h3>Momentary Switch (Pushbutton) - SPST - SMD, 6.2mm Square</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons).</p>
+<p><a href="http://www.apem.com/files/apem/brochures/ADTS6-ADTSM-KTSC6.pdf">Datasheet</a> (ADTSM63NVTR)</p>
+
+0
+4
+4
+SparkFun-Switches
+TACTILE_SWITCH_SMD_12MM
+<h3>Momentary Switch (Pushbutton) - SPST - SMD, 12mm Square</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons).</p>
+<p><a href="https://cdn.sparkfun.com/datasheets/Components/Switches/N301102.pdf">Datasheet</a></p>
+
+0
+4
+4
+SparkFun-Switches
+TACTILE_SWITCH_SMD_RIGHT_ANGLE
+<h3>Momentary Switch (Pushbutton) - SPST - SMD, Right-angle</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons).</p>
+
+0
+2
+2
+SparkFun-Switches
+TRACKBALL
+<h3>Trackball - Mechanical</h3>
+<p>This is a tiny trackball akin to those found on a number of Blackberry models (8100, 8300, 8320, 8800, 8830, etc). Each of the four spindles have a tiny circular magnet on each end. Great when paired with very small SMD Hall effect sensors.</p>
+<p><a href="https://www.sparkfun.com/products/9308">Product Page</a></p>
+
+0
+0
+0
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -75004,6 +75604,15 @@ MXOnly-2U-ReversedStabilizers-NoLED-ComboSpace-EDIT
 0
 4
 2
+bed-face-components
+SWITCH_SPST_SMD_A-EDIT
+<h3>SPDT Slide Switch - SMD</h3>
+<p>Single-pole, double-throw (SPDT) switch.</p>
+<p><a href="http://cdn.sparkfun.com/datasheets/Components/Switches/SLIDE.pdf">Datasheet</a></p>
+
+0
+7
+3
 bed-face-components
 standoff_hole
 
