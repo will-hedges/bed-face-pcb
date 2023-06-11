@@ -13,3 +13,6 @@
 [submodule "keebio-components"]
 	path = keebio-components
 	url = https://github.com/keebio/keebio-components
+[submodule "reversible-kicad"]
+	path = reversible-kicad
+	url = git@github.com:tzarc/reversible-kicad.git
