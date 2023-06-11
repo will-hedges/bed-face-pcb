@@ -16,3 +16,6 @@
 [submodule "reversible-kicad"]
 	path = reversible-kicad
 	url = git@github.com:tzarc/reversible-kicad.git
+[submodule "SparkFun-Eagle-Libraries"]
+	path = SparkFun-Eagle-Libraries
+	url = git@github.com:sparkfun/SparkFun-Eagle-Libraries.git
